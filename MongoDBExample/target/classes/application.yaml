@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: dunay
+      password: dunay1
+      database: mongodb-example
+      port: 27017
+      host: localhost
+      auto-index-creation: true
